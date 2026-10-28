@@ -6,7 +6,7 @@
 I build practical AI applications that combine machine learning, data analysis, APIs, automation, and usable product experiences.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abhinavr.com-111827?style=flat&logo=google-chrome&logoColor=white)](https://abhinavr.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhinav-r-b9135331b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhinavr-ai/)
 [![GitHub](https://img.shields.io/badge/GitHub-abhinavrenjithg--sys-181717?style=flat&logo=github)](https://github.com/abhinavrenjithg-sys)
 
 </div>
@@ -50,7 +50,7 @@ I build practical AI applications that combine machine learning, data analysis, 
 ## Connect
 
 - 🌐 Portfolio: [abhinavr.com](https://abhinavr.com/)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/abhinav-r-b9135331b/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/abhinavr-ai/)
 - 🧑‍💻 GitHub: [@abhinavrenjithg-sys](https://github.com/abhinavrenjithg-sys)
 
 ---
